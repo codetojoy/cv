@@ -3,7 +3,7 @@
 
 ## Speaking
 
-* several talks for PEI Devs Meetup and Open Data Meetup (raw list [here](https://github.com/codetojoy/self/blob/master/tech/events.csv))
+* several talks for [PEI Devs Meetup](https://peidevs.github.io) and [Open Data Meetup](https://peidevs.github.io/OpenDataBookClub) (raw list [here](https://github.com/codetojoy/self/blob/master/tech/events.csv))
 * _Java 9 Modules For Busy Developers_, [Maritime Dev Con](https://maritimedevcon.ca/), Jun 2017
     * slides [here](https://docs.google.com/presentation/d/1d2qwIx5tg_GWUa2Amz4fiqaHU4DTY22nvsTMVlrz1eY/edit#slide=id.p) and demo code [here](https://github.com/codetojoy/talk_maritimedevcon_java_9_modules) 
 * _Covert Ops: Transform Your Java Team With Groovy_, [Maritime Dev Con](https://maritimedevcon.ca/), Jun 2016
