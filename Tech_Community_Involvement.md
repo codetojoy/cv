@@ -13,7 +13,9 @@
 * _Open Data and Generation Open_, CIPS PEI, Feb 2016
 * _Intro to jQuery_, CIPS PEI, Jan 2012
 * _Intro to Groovy_, CIPS PEI, Nov 2011 
-* _First Class Builds With Gradle_, [No Fluff Just Stuff conference](https://nofluffjuststuff.com/home/main), May 2010
+* _First Class Builds With Gradle_, [No Fluff Just Stuff conference](https://nofluffjuststuff.com/home/main), St. Louis, Missouri, May 2010
+* _Monads Are Burritos_, Lambda Lounge, St. Louis, Missouri, March 2009
+    * slides [here](https://github.com/codetojoy/presentations/blob/master/Lambda_Lounge_Monads/Post_Monads_LambdaLounge_Talk.pdf)
 
 ## Writing
 
