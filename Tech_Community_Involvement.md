@@ -10,8 +10,8 @@
     * slides [here](http://codetojoy.github.io/talk_maritimedevcon_groovy/assets/player/KeynoteDHTMLPlayer.html#0) and demo code [here](https://github.com/codetojoy/talk_maritimedevcon_groovy) 
 * _Open Data Book Club: Lightning Talk_, Canadian Open Data Summit, Apr 2016 
     * video [here](https://youtu.be/5DiBSloGRl0?t=3h15m37s)
-* _Open Data and Generation Open, CIPS PEI, Feb 2016
-* _Intro to jQuery, CIPS PEI, Jan 2012
+* _Open Data and Generation Open_, CIPS PEI, Feb 2016
+* _Intro to jQuery_, CIPS PEI, Jan 2012
 * _Intro to Groovy_, CIPS PEI, Nov 2011 
 * _First Class Builds With Gradle_, [No Fluff, Just Stuff](https://nofluffjuststuff.com/home/main), May 2010
 
