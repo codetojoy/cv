@@ -13,7 +13,7 @@
 * _Open Data and Generation Open_, CIPS PEI, Feb 2016
 * _Intro to jQuery_, CIPS PEI, Jan 2012
 * _Intro to Groovy_, CIPS PEI, Nov 2011 
-* _First Class Builds With Gradle_, [No Fluff, Just Stuff](https://nofluffjuststuff.com/home/main), May 2010
+* _First Class Builds With Gradle_, [No Fluff Just Stuff conference](https://nofluffjuststuff.com/home/main), May 2010
 
 ## Writing
 
