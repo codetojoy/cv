@@ -20,7 +20,7 @@
 ## Writing
 
 * _Covert Ops: Effecting Change From The Inside_, [No Fluff Just Stuff Magazine](https://nofluffjuststuff.com/magazine/2011/04), Apr 2011
-* _JSR 181: Java Simplification Request, OCI Java News Brief (now OCI SETT), Jun 2007
+* _JSR 181: Java Simplification Request_, OCI Java News Brief (now OCI SETT), Jun 2007
     * article [here](https://objectcomputing.com/resources/publications/sett/june-2007-jsr-181-a-java-simplification-request/) 
 * _Emma: After the Green Bar_, OCI Java News Brief (now OCI SETT), Feb 2007 
     * article [here](http://jnb.ociweb.com/jnb/jnbFeb2007.html)
