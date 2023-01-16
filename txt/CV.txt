@@ -23,3 +23,34 @@ University of Prince Edward Island: B.Sc. in Mathematics (minor Computer Science
 Stack Overflow (23k reputation): https://stackoverflow.com/users/12704/michael-easter
 GitHub: https://github.com/codetojoy
 Speaking, Writing, Organizing: https://bit.ly/2H2G0I4
+
+* Skills
+
+Concepts: agile methodologies (certified Scrum Master, XP), unit-testing/TDD, integration testing, Continuous Integration, REST, concurrency, MVC, IoT
+
+Languages: Java, Groovy, TypeScript/JavaScript, Python, SQL. Familiar with Kotlin, C#, Dart, Go, Rust 
+
+Frameworks: Java EE (JAX-RS, JAXB, JDBC, JMS, JSP, RMI, Web Services), Spring, Hibernate, Node.js, Android, jQuery, Web Experience Toolkit (WET) Testing Frameworks: JUnit, Mockito, Cobertura, DbUnit, Spock, FIT
+
+Dev Tools: Gradle, Maven, Jenkins, Artifactory, Ant, Bash, Eclipse, IntelliJ, Git, Subversion, Docker, GitLab, IBM RAD (Rational Application Developer)
+
+Production Systems: MySQL, Tomcat, Oracle, WebLogic
+
+* Experience
+
+Study Sabbatical, Charlottetown, PE - June 2020 - present
+
+- TODO
+
+Solution Architect, Veterans Affairs Canada, Charlottetown, PE - Jan 2020 - June 2020
+
+- TODO 
+
+Programmer Analyst, Veterans Affairs Canada, Charlottetown, PE - Sep 2018 - Present
+
+- On-going development for next-generation internal webapp (well-being screening tool) using iterative development via the Scrum framework.
+- Received training and certification as Scrum Master
+- Developed build process that uses pure Maven and does not rely on IDE configuration (RAD)
+- Introduced: unit testing, build timestamps, inline performance warning logs for slow transactions, Scrum framework, modern concurrency patterns (e.g. Java’s Executor service)
+- Tools: Apache Struts2, Maven, IBM RAD, IBM WebSphere, Java, Web Experience Toolkit (WET) framework, SQL Developer, Oracle RDBMS, GitLab, Git
+
