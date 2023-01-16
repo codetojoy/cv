@@ -22,7 +22,7 @@ University of Prince Edward Island: B.Sc. in Mathematics (minor Computer Science
 
 Stack Overflow (23k reputation): https://stackoverflow.com/users/12704/michael-easter
 GitHub: https://github.com/codetojoy
-Speaking, Writing, Organizing: https://bit.ly/2H2G0I4
+Speaking, Writing, Organizing: https://github.com/codetojoy/cv/blob/main/Tech_Community_Involvement.md
 
 * Skills
 

@@ -23,7 +23,7 @@ Passionate about the craft of software and empowering teams to deliver robust so
 
 * Stack Overflow (23k reputation) [profile](https://stackoverflow.com/users/12704/michael-easter)
 * GitHub [profile](https://github.com/codetojoy)
-* Speaking, Writing, Organizing [profile](https://bit.ly/2H2G0I4)
+* Speaking, Writing, Organizing [profile](https://github.com/codetojoy/cv/blob/main/Tech_Community_Involvement.md)
 
 ### Skills
 
