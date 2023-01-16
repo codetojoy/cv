@@ -52,7 +52,6 @@ Solution Architect, Veterans Affairs Canada, Charlottetown, PE - Jan 2020 - June
 - TODO 
 
 * Programmer Analyst, Veterans Affairs Canada, Charlottetown, PE - Sep 2018 - Present
-
 - On-going development for next-generation internal webapp (well-being screening tool) using iterative development via the Scrum framework.
 - Received training and certification as Scrum Master
 - Developed build process that uses pure Maven and does not rely on IDE configuration (RAD)
