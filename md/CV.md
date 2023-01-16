@@ -4,7 +4,8 @@
 * Address: Charlottetown, Prince Edward Island, Canada
 * Email: codetojoy at gmail
 * Mobile: per request
-* Twitter: https://twitter.com/codetojoy
+* LinkedIn [profile](https://www.linkedin.com/in/michael-easter-24231316/)
+* Twitter [profile](https://twitter.com/codetojoy)
 
 ### Profile
 
@@ -16,7 +17,7 @@ Passionate about the craft of software and empowering teams to deliver robust so
 ### Education
 
 * University of Waterloo: M.Math. in Computer Science
-* University of Prince Edward Island: B.Sc. in Mathematics (minor Computer Science)
+* University of Prince Edward Island: B.Sc. in Mathematics (minor in Computer Science)
 
 ### Online Resources
 
@@ -34,15 +35,15 @@ Passionate about the craft of software and empowering teams to deliver robust so
 
 * Dev Tools: Gradle, Maven, Jenkins, Artifactory, Ant, Bash, Eclipse, IntelliJ, Git, Subversion, Docker, GitLab, IBM RAD (Rational Application Developer)
 
-Production Systems: MySQL, Tomcat, Oracle, WebLogic
+* Production Systems: MySQL, Tomcat, Oracle, WebLogic
 
 ### References
 
-Available on request
+* Available on request
 
 ### Experience
 
-Study Sabbatical, Charlottetown, PE - June 2020 - present
+* Study Sabbatical, Charlottetown, PE - June 2020 - present
 
 - TODO
 
@@ -50,7 +51,7 @@ Solution Architect, Veterans Affairs Canada, Charlottetown, PE - Jan 2020 - June
 
 - TODO 
 
-Programmer Analyst, Veterans Affairs Canada, Charlottetown, PE - Sep 2018 - Present
+* Programmer Analyst, Veterans Affairs Canada, Charlottetown, PE - Sep 2018 - Present
 
 - On-going development for next-generation internal webapp (well-being screening tool) using iterative development via the Scrum framework.
 - Received training and certification as Scrum Master
