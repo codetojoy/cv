@@ -1,11 +1,25 @@
 
 Michael Easter
 
-address: Charlottetown, Prince Edward Island, Canada
-email: codetojoy at gmail
-mobile: per request
-twitter: https://twitter.com/codetojoy
-GitHub: http://github.com/codetojoy
-Stack Overflow: https://stackoverflow.com/users/12704/michael-easter
+Address: Charlottetown, Prince Edward Island, Canada
+Email: codetojoy at gmail
+Mobile: per request
+Twitter: https://twitter.com/codetojoy
 
+* Profile
 
+Software developer, writer, speaker, with 20+ years of experience in all phases of development.
+Over 16 years experience with Java and JVM technologies including front-end, server, build processes, and network/IoT devices.
+
+Passionate about the craft of software and empowering teams to deliver robust solutions to customers.
+
+* Education
+
+University of Waterloo: M.Math. in Computer Science
+University of Prince Edward Island: B.Sc. in Mathematics (minor Computer Science)
+
+* Online Resources
+
+Stack Overflow (23k reputation): https://stackoverflow.com/users/12704/michael-easter
+GitHub: https://github.com/codetojoy
+Speaking, Writing, Organizing: https://bit.ly/2H2G0I4
