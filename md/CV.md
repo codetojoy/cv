@@ -82,62 +82,50 @@ Passionate about the craft of software and empowering teams to deliver robust so
         - Introduced Groovy for DevOps utilities, pair-programming as agile techniques. Refined build/deploy processes in Jenkins.
         - Tools: Apache Flex (client), Ant, Groovy, Java, MySQL, Hibernate, Spring, Subversion, Tomcat, Eclipse.
 
-Senior Software Consultant, CGI, Stratford PE – Jun 2010 - Mar 2012
+* Senior Software Consultant, CGI, Stratford PE – Jun 2010 - Mar 2012
+    - Collaborated on enterprise, Java web application. Architecture: JDBC on WebLogic cluster using Oracle.
+    - Introduced agile principles, JUnit, and Groovy (for troubleshooting).
+    - Tools: Java, Eclipse, Ant, jQuery, JMS, Subversion, Oracle, SQL, Toad.
 
-- Collaborated on enterprise, Java web application. Architecture: JDBC on WebLogic cluster using Oracle.
-- Introduced agile principles, JUnit, and Groovy (for troubleshooting).
-- Tools: Java, Eclipse, Ant, jQuery, JMS, Subversion, Oracle, SQL, Toad.
+* Senior Software Engineer, Advantage Consulting, St. Louis, Missouri Oct 2006 - Jun 2010
+    - Worked full-time for client sites (below) and performed extra-curricular activities, including writing articles and maintaining 3-day training class on Groovy/Grails.
 
-Senior Software Engineer, Advantage Consulting, St. Louis, Missouri Oct 2006 - Jun 2010
+    - Medical Device App (Nov 2007 - Jun 2010):
+        - Member of Scrum team developing Java client-server app on PC, connected to medical instrument. Worked closely with domain experts on Sprint planning.
+        - Migrated OODB to PostgreSQL, using Spring, Hibernate. Introduced Groovy, enabling team to write fast queries against OODB, using production code.
+        - Tools: Java, Groovy, PostgreSQL, Spring, Hibernate, JUnit, DbUnit, FIT.
 
-- Worked full-time for client sites (below) and performed extra-curricular activities, including writing articles and maintaining 3-day training class on Groovy/Grails.
+    - Accounting System (Apr 2007 - Nov 2007):
+        - Assisted client with requirements/design. Tools: Java, Java Swing, IntelliJ.
 
-Medical Device App (Nov 2007 - Jun 2010):
+    - Medical Device App (Oct 2006 - Apr 2007):
+        - Same project/tasks as described above. My contract was not renewed due to budget constraints, but was later invited (by name) to return.
 
-- Member of Scrum team developing Java client-server app on PC, connected to medical instrument. Worked closely with domain experts on Sprint planning.
-- Migrated OODB to PostgreSQL, using Spring, Hibernate. Introduced Groovy, enabling team to write fast queries against OODB, using production code.
-- Tools: Java, Groovy, PostgreSQL, Spring, Hibernate, JUnit, DbUnit, FIT.
+* Various Roles, SirsiDynix (formerly Data Research Associates) St. Louis, Missouri – 1999 - 2006
+    - Senior Software Engineer (Feb 2004 - Oct 2006):
+        - Contributed to development effort in incremental releases of portlet web app, based on Apache Jetspeed. (See Project 2 below).
+        - Wrote custom persistence layer (Hibernate) to store portlet config in Oracle. 
 
-Accounting System (Apr 2007 - Nov 2007):
+    - Technical Lead (May 2000 - Feb 2004):
+        - Portlet Web App:
+        - Tech lead for 2 initial releases of federated portlet web app.
+        - Oversaw project from spec-to-release. Supervised team of 2 junior developers.
+        - Tools: Apache Jetspeed, Struts 1.x, Hibernate, Lucene (as prototype), Oracle, Tomcat, Eclipse, XLST.
 
-- Assisted client with requirements/design. Tools: Java, Java Swing, IntelliJ.
+    - Online Public Access Catalogue:
+        - Tech lead for 2 major releases of existing, popular web app. App written in C++, multi-threaded, multi-lingual UX, followed MVC architecture.
+        - Oversaw project from spec-to-release. Worked closely with domain expert, server-side developers. Supervised team of 2 junior developers.
 
-Medical Device App (Oct 2006 - Apr 2007):
+    - Software Engineer (Feb 1999 - May 2000):
+        - Collaborated on next-generation Integrated Library System. Client-server architecture. Toolset: C++, CORBA, ObjectStore (OODB).
 
-- Same project/tasks as described above. My contract was not renewed due to budget constraints, but was later invited (by name) to return.
+* Software Consultant, Unicon International, Columbus, Ohio – 1996 - 1999
+    - Coordinated design/prototype data warehouse for telecom firm. Client-server architecture. Data stored in Oracle (data repository) and Hyperion Essbase (data mart). Integrated VB/Excel client; Unix servers(C++, Perl).
+    - Participated in real-time network switch for large telecom firm. The system consisted of DEC Alphas connected by LAN over ATM. Tools: Motif, C++.
 
-Various Roles, SirsiDynix (formerly Data Research Associates) St. Louis, Missouri – 1999 - 2006
+* Software Consultant, Lindenberg and Associates, St. Louis, Missouri Jan 1996 - Oct 1996
+    - Involved in developing office-productivity applications for investment firm.
+    - Activities included: gathering requirements, coding, usability-lab testing for UX. Tools: UIM/X, Motif, C++, Sun’s ToolTalk.
 
-Senior Software Engineer (Feb 2004 - Oct 2006):
-
-- Contributed to development effort in incremental releases of portlet web app, based on Apache Jetspeed. (See Project 2 below).
-- Wrote custom persistence layer (Hibernate) to store portlet config in Oracle. 
-
-Technical Lead (May 2000 - Feb 2004):
-
-Portlet Web App:
-- Tech lead for 2 initial releases of federated portlet web app.
-- Oversaw project from spec-to-release. Supervised team of 2 junior developers.
-- Tools: Apache Jetspeed, Struts 1.x, Hibernate, Lucene (as prototype), Oracle,
-Tomcat, Eclipse, XLST.
-
-Online Public Access Catalogue:
-
-- Tech lead for 2 major releases of existing, popular web app. App written in C++, multi-threaded, multi-lingual UX, followed MVC architecture.
-- Oversaw project from spec-to-release. Worked closely with domain expert, server-side developers. Supervised team of 2 junior developers.
-
-Software Engineer (Feb 1999 - May 2000):
-
-- Collaborated on next-generation Integrated Library System. Client-server architecture. Toolset: C++, CORBA, ObjectStore (OODB).
-
-Software Consultant, Unicon International, Columbus, Ohio – 1996 - 1999
-
-- Coordinated design/prototype data warehouse for telecom firm. Client-server architecture. Data stored in Oracle (data repository) and Hyperion Essbase (data mart). Integrated VB/Excel client; Unix servers(C++, Perl).
-- Participated in real-time network switch for large telecom firm. The system consisted of DEC Alphas connected by LAN over ATM. Tools: Motif, C++.
-
-Software Consultant, Lindenberg and Associates, St. Louis, Missouri Jan 1996 - Oct 1996
-
-- Involved in developing office-productivity applications for investment firm.
-Activities included: gathering requirements, coding, usability-lab testing for UX. Tools: UIM/X, Motif, C++, Sun’s ToolTalk.
-Programmer/Analyst, National Research Council, Ottawa, ON - 1993 - 1995
-- Ported real-time Collision-Detection library from robotic app to CNC industrial machine tool. Tools: ANSI C (DOS), C++ (Irix), Motif, OpenGL.
+* Programmer/Analyst, National Research Council, Ottawa, ON - 1993 - 1995
+    - Ported real-time Collision-Detection library from robotic app to CNC industrial machine tool. Tools: ANSI C (DOS), C++ (Irix), Motif, OpenGL.
