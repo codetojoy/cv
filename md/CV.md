@@ -15,24 +15,24 @@ Passionate about the craft of software and empowering teams to deliver robust so
 
 ### Education
 
-University of Waterloo: M.Math. in Computer Science
-University of Prince Edward Island: B.Sc. in Mathematics (minor Computer Science)
+* University of Waterloo: M.Math. in Computer Science
+* University of Prince Edward Island: B.Sc. in Mathematics (minor Computer Science)
 
 ### Online Resources
 
-Stack Overflow (23k reputation): https://stackoverflow.com/users/12704/michael-easter
-GitHub: https://github.com/codetojoy
-Speaking, Writing, Organizing: https://bit.ly/2H2G0I4
+* Stack Overflow (23k reputation) [profile](https://stackoverflow.com/users/12704/michael-easter)
+* GitHub [profile](https://github.com/codetojoy)
+* Speaking, Writing, Organizing [profile](https://bit.ly/2H2G0I4)
 
 ### Skills
 
-Concepts: agile methodologies (certified Scrum Master, XP), unit-testing/TDD, integration testing, Continuous Integration, REST, concurrency, MVC, IoT
+* Concepts: agile methodologies (certified Scrum Master, XP), unit-testing/TDD, integration testing, Continuous Integration, REST, concurrency, MVC, IoT
 
-Languages: Java, Groovy, TypeScript/JavaScript, Python, SQL. Familiar with Kotlin, C#, Dart, Go, Rust 
+* Languages: Java, Groovy, TypeScript/JavaScript, Python, SQL. Familiar with Kotlin, C#, Dart, Go, Rust 
 
-Frameworks: Java EE (JAX-RS, JAXB, JDBC, JMS, JSP, RMI, Web Services), Spring, Hibernate, Node.js, Android, jQuery, Web Experience Toolkit (WET) Testing Frameworks: JUnit, Mockito, Cobertura, DbUnit, Spock, FIT
+* Frameworks: Java EE (JAX-RS, JAXB, JDBC, JMS, JSP, RMI, Web Services), Spring, Hibernate, Node.js, Android, jQuery, Web Experience Toolkit (WET) Testing Frameworks: JUnit, Mockito, Cobertura, DbUnit, Spock, FIT
 
-Dev Tools: Gradle, Maven, Jenkins, Artifactory, Ant, Bash, Eclipse, IntelliJ, Git, Subversion, Docker, GitLab, IBM RAD (Rational Application Developer)
+* Dev Tools: Gradle, Maven, Jenkins, Artifactory, Ant, Bash, Eclipse, IntelliJ, Git, Subversion, Docker, GitLab, IBM RAD (Rational Application Developer)
 
 Production Systems: MySQL, Tomcat, Oracle, WebLogic
 
