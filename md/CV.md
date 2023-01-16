@@ -44,19 +44,17 @@ Passionate about the craft of software and empowering teams to deliver robust so
 ### Experience
 
 * Study Sabbatical, Charlottetown, PE - June 2020 - present
+    - TODO
 
-- TODO
-
-Solution Architect, Veterans Affairs Canada, Charlottetown, PE - Jan 2020 - June 2020
-
-- TODO 
+* Solution Architect, Veterans Affairs Canada, Charlottetown, PE - Jan 2020 - June 2020
+    - TODO 
 
 * Programmer Analyst, Veterans Affairs Canada, Charlottetown, PE - Sep 2018 - Present
-- On-going development for next-generation internal webapp (well-being screening tool) using iterative development via the Scrum framework.
-- Received training and certification as Scrum Master
-- Developed build process that uses pure Maven and does not rely on IDE configuration (RAD)
-- Introduced: unit testing, build timestamps, inline performance warning logs for slow transactions, Scrum framework, modern concurrency patterns (e.g. Java’s Executor service)
-- Tools: Apache Struts2, Maven, IBM RAD, IBM WebSphere, Java, Web Experience Toolkit (WET) framework, SQL Developer, Oracle RDBMS, GitLab, Git
+    - On-going development for next-generation internal webapp (well-being screening tool) using iterative development via the Scrum framework.
+    - Received training and certification as Scrum Master
+    - Developed build process that uses pure Maven and does not rely on IDE configuration (RAD)
+    - Introduced: unit testing, build timestamps, inline performance warning logs for slow transactions, Scrum framework, modern concurrency patterns (e.g. Java’s Executor service)
+    - Tools: Apache Struts2, Maven, IBM RAD, IBM WebSphere, Java, Web Experience Toolkit (WET) framework, SQL Developer, Oracle RDBMS, GitLab, Git
 
 Freelance Software Developer, Charlottetown, PE - Apr 2016 - Aug 2018
 
