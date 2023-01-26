@@ -29,3 +29,7 @@
 
 * co-organizer of [PEI Devs Meetup](http://peidevs.github.io/) since Feb 2015 
 * founder of [Open Data PEI Meetup](http://peidevs.github.io/OpenDataBookClub/) (Sep 2015 - Nov 2016)
+
+## Various Awards & Achievements
+
+* [here](./Awards.md)
