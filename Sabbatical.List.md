@@ -5,7 +5,7 @@
 
 Note that War-O is a simple card game used as a theme (or "kata") for code projects.
 
-* C# [here](https://github.com/codetojoy/WarO_CSharp-v2)
+* C# [here](https://github.com/codetojoy/WarO-CSharp-v2)
 * Go [here](https://github.com/codetojoy/WarO_Go)
 * Kotlin [here](https://github.com/codetojoy/WarO_Kotlin)
 * Python [here](https://github.com/codetojoy/WarO_Python)
