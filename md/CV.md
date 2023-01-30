@@ -23,7 +23,7 @@ Passionate about the craft of software and empowering teams to deliver robust so
 
 * Stack Overflow (23k reputation) [profile](https://stackoverflow.com/users/12704/michael-easter)
 * GitHub [profile](https://github.com/codetojoy)
-* Speaking, Writing, Organizing [profile](https://github.com/codetojoy/cv/blob/main/Tech_Community_Involvement.md)
+* Speaking, Writing, Organizing [summary](https://github.com/codetojoy/cv/blob/main/Tech_Community_Involvement.md)
 
 ### Skills
 
@@ -31,7 +31,9 @@ Passionate about the craft of software and empowering teams to deliver robust so
 
 * Languages: Java, Groovy, TypeScript/JavaScript, Python, SQL. Familiar with Kotlin, C#, Dart, Go, Rust 
 
-* Frameworks: Java EE (JAX-RS, JAXB, JDBC, JMS, JSP, RMI, Web Services), Spring, Hibernate, Node.js, Android, jQuery, Web Experience Toolkit (WET) Testing Frameworks: JUnit, Mockito, Cobertura, DbUnit, Spock, FIT
+* Frameworks: Java EE (JAX-RS, JAXB, JDBC, JMS, JSP, RMI, Web Services), Spring, Hibernate, Node.js, Android, jQuery, 
+
+* Testing Frameworks: JUnit, Mockito, Cobertura, DbUnit, Spock, FIT
 
 * Dev Tools: Gradle, Maven, Jenkins, Artifactory, Ant, Bash, Eclipse, IntelliJ, Git, Subversion, Docker, GitLab, IBM RAD (Rational Application Developer)
 
