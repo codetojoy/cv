@@ -80,3 +80,7 @@ p {
 .container-info p {
   font: 1.3rem "Georgia", serif;
 }
+
+pre {
+   display: inline;
+}
