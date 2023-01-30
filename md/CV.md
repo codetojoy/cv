@@ -6,6 +6,7 @@
 * Mobile: per request
 * LinkedIn [profile](https://www.linkedin.com/in/michael-easter-24231316/)
 * Twitter [profile](https://twitter.com/codetojoy)
+* HTML version of [this CV](https://codetojoy.github.io/cv/web/index.html)
 
 ### Profile
 
