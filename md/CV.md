@@ -76,20 +76,20 @@ Passionate about the craft of software and empowering teams to deliver robust so
     - multiple projects (below) 
 ---
     - Second-Gen SaaS/IoT Project:
-        - Full-stack member of small team on SaaS project (client, server, and IoT device).
-        - Extensive server work: new REST endpoints with Spring/Hibernate, DB schema
-        changes. Implemented concurrency lock around legacy image scaling tool.
-        - Worked closely with CTO on both Windows (and Android, to lesser degree) device, including install/provision, config/monitoring, and in-field version update.
-        - Developed many utilities, tools. e.g. One Groovy app parsed/verified Adobe Flash XML and built an executable jar which contained assets and an ENV-aware database loader. Used by both content designers and Ops team.
-        - Introduced team to unit-testing (JUnit, Mockito) and integration testing (DbUnit) as agile techniques. Built prototype Docker image for Jenkins, MySQL.
-        - Tools: Android, Apache Flex, AWS, DbUnit, Gradle, Groovy, Hibernate, Java, JUnit, JWrapper, Mockito, MySQL, Spring, Subversion, Tomcat, Eclipse.
+    - Full-stack member of small team on SaaS project (client, server, and IoT device).
+    - Extensive server work: new REST endpoints with Spring/Hibernate, DB schema
+    changes. Implemented concurrency lock around legacy image scaling tool.
+    - Worked closely with CTO on both Windows (and Android, to lesser degree) device, including install/provision, config/monitoring, and in-field version update.
+    - Developed many utilities, tools. e.g. One Groovy app parsed/verified Adobe Flash XML and built an executable jar which contained assets and an ENV-aware database loader. Used by both content designers and Ops team.
+    - Introduced team to unit-testing (JUnit, Mockito) and integration testing (DbUnit) as agile techniques. Built prototype Docker image for Jenkins, MySQL.
+    - Tools: Android, Apache Flex, AWS, DbUnit, Gradle, Groovy, Hibernate, Java, JUnit, JWrapper, Mockito, MySQL, Spring, Subversion, Tomcat, Eclipse.
 ---
     - Legacy SaaS project:
-        - Collaborated on first-generation SaaS project (client and server).
-        - Scrum-based sprints, working closely with domain experts and Operations.
-        - Development included: client (Flex), server (Java/Spring/Hibernate), database utilities, other DevOps.
-        - Introduced Groovy for DevOps utilities, pair-programming as agile techniques. Refined build/deploy processes in Jenkins.
-        - Tools: Apache Flex (client), Ant, Groovy, Java, MySQL, Hibernate, Spring, Subversion, Tomcat, Eclipse.
+    - Collaborated on first-generation SaaS project (client and server).
+    - Scrum-based sprints, working closely with domain experts and Operations.
+    - Development included: client (Flex), server (Java/Spring/Hibernate), database utilities, other DevOps.
+    - Introduced Groovy for DevOps utilities, pair-programming as agile techniques. Refined build/deploy processes in Jenkins.
+    - Tools: Apache Flex (client), Ant, Groovy, Java, MySQL, Hibernate, Spring, Subversion, Tomcat, Eclipse.
 
 * Senior Software Consultant, CGI, Stratford PE – Jun 2010 - Mar 2012
     - Collaborated on enterprise, Java web application. Architecture: JDBC on WebLogic cluster using Oracle.
