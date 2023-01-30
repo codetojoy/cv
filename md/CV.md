@@ -31,7 +31,7 @@ Passionate about the craft of software and empowering teams to deliver robust so
 
 * Languages: Java, Groovy, TypeScript/JavaScript, Python, SQL. Familiar with Kotlin, C#, Dart, Go, Rust 
 
-* Frameworks: Java EE (JAX-RS, JAXB, JDBC, JMS, JSP, RMI, Web Services), Spring, Hibernate, Node.js, Android, jQuery, 
+* Frameworks: Java EE (JAX-RS, JAXB, JDBC, JMS, JSP, RMI, Web Services), Spring, Hibernate, Node.js, Android, jQuery
 
 * Testing Frameworks: JUnit, Mockito, Cobertura, DbUnit, Spock, FIT
 
@@ -45,29 +45,36 @@ Passionate about the craft of software and empowering teams to deliver robust so
 
 ### Experience
 
-* Study Sabbatical, Charlottetown, PE - June 2020 - present
-    - TODO
+* Study Sabbatical, Charlottetown, PE
+    - June 2020 - present
+    - Study break to learn new technologies via Udemy courses and/or technical books.
+    - Summary of projects [here](https://github.com/codetojoy/cv/blob/main/Sabbatical.List.md)
 
-* Solution Architect, Veterans Affairs Canada, Charlottetown, PE - Jan 2020 - June 2020
+* Solution Architect, Veterans Affairs Canada, Charlottetown, PE 
+    - Aug 2019 - June 2020
     - TODO 
 
-* Programmer Analyst, Veterans Affairs Canada, Charlottetown, PE - Sep 2018 - Present
+* Programmer Analyst, Veterans Affairs Canada, Charlottetown, PE 
+    - Sep 2018 - Aug 2019
     - On-going development for next-generation internal webapp (well-being screening tool) using iterative development via the Scrum framework.
-    - Received training and certification as Scrum Master
-    - Developed build process that uses pure Maven and does not rely on IDE configuration (RAD)
-    - Introduced: unit testing, build timestamps, inline performance warning logs for slow transactions, Scrum framework, modern concurrency patterns (e.g. Java’s Executor service)
-    - Tools: Apache Struts2, Maven, IBM RAD, IBM WebSphere, Java, Web Experience Toolkit (WET) framework, SQL Developer, Oracle RDBMS, GitLab, Git
+    - Received training and certification as Scrum Master.
+    - Developed build process that uses Maven and does not rely on IDE configuration (RAD).
+    - Introduced: unit testing, build hygiene, inline performance warning logs for slow transactions, Scrum framework, modern concurrency patterns (e.g. Java’s Executor service).
+    - Tools: Apache Struts2, Maven, IBM RAD, IBM WebSphere, Java, Web Experience Toolkit (WET) framework, SQL Developer, Oracle RDBMS, GitLab, Git.
 
-* Freelance Software Developer, Charlottetown, PE - Apr 2016 - Aug 2018
-
-    - Second-Gen SaaS/IoT Project (May 2016 - Aug 2018):
-    - Assisting digital signage firm (part-time) with next-generation SaaS project with networked/IoT display devices.
+* Freelance Software Developer, Charlottetown, PE 
+    - Apr 2016 - Aug 2018
+    - Second-Gen SaaS/IoT Project
+    - Assisting digital signage firm (part-time) with next-generation SaaS project with IoT display devices.
     - Developed efficient build process using Artifactory, with deploy of web/server via Jenkins Pipelines.
     - Extensive modification of Windows display device: removal of legacy installer, interface with Electron app, Java RMI performance and stability.
     - Facilitated migration to GitHub from legacy source-control. Provided on-site training for unit-testing (JUnit, Mockito) and Git.
     - Tools: Artifactory, Gradle, Groovy, Java, Java RMI, Jenkins, Node.js, Spring, Webpack.
 
-* Software Developer, ScreenScape Networks, Charlottetown, PE Mar 2012 - Apr 2016
+* Software Developer, ScreenScape Networks, Charlottetown, PE 
+    - Mar 2012 - Apr 2016
+    - multiple projects (below) 
+---
     - Second-Gen SaaS/IoT Project:
         - Full-stack member of small team on SaaS project (client, server, and IoT device).
         - Extensive server work: new REST endpoints with Spring/Hibernate, DB schema
@@ -76,7 +83,7 @@ Passionate about the craft of software and empowering teams to deliver robust so
         - Developed many utilities, tools. e.g. One Groovy app parsed/verified Adobe Flash XML and built an executable jar which contained assets and an ENV-aware database loader. Used by both content designers and Ops team.
         - Introduced team to unit-testing (JUnit, Mockito) and integration testing (DbUnit) as agile techniques. Built prototype Docker image for Jenkins, MySQL.
         - Tools: Android, Apache Flex, AWS, DbUnit, Gradle, Groovy, Hibernate, Java, JUnit, JWrapper, Mockito, MySQL, Spring, Subversion, Tomcat, Eclipse.
-
+---
     - Legacy SaaS project:
         - Collaborated on first-generation SaaS project (client and server).
         - Scrum-based sprints, working closely with domain experts and Operations.
