@@ -45,16 +45,16 @@ Passionate about the craft of software and empowering teams to deliver robust so
 
 ### Experience
 
-* **Study Sabbatical**, Charlottetown, PE
+* _Study Sabbatical_, Charlottetown, PE
     - June 2020 - present
     - Study break to learn new technologies via Udemy courses and/or technical books.
     - Summary of projects [here](https://github.com/codetojoy/cv/blob/main/Sabbatical.List.md)
 
-* **Solution Architect**, Veterans Affairs Canada, Charlottetown, PE 
+* _Solution Architect_, Veterans Affairs Canada, Charlottetown, PE 
     - Aug 2019 - June 2020
     - TODO 
 
-* **Programmer Analyst**, Veterans Affairs Canada, Charlottetown, PE 
+* _Programmer Analyst_, Veterans Affairs Canada, Charlottetown, PE 
     - Sep 2018 - Aug 2019
     - On-going development for next-generation internal webapp (well-being screening tool) using iterative development via the Scrum framework.
     - Received training and certification as Scrum Master.
@@ -62,7 +62,7 @@ Passionate about the craft of software and empowering teams to deliver robust so
     - Introduced: unit testing, build hygiene, inline performance warning logs for slow transactions, Scrum framework, modern concurrency patterns (e.g. Java’s Executor service).
     - Tools: Apache Struts2, Maven, IBM RAD, IBM WebSphere, Java, Web Experience Toolkit (WET) framework, SQL Developer, Oracle RDBMS, GitLab, Git.
 
-* **Freelance Software Developer**, Charlottetown, PE 
+* _Freelance Software Developer_, Charlottetown, PE 
     - Apr 2016 - Aug 2018
     - **project**: Second-Gen SaaS/IoT 
     - Assisting digital signage firm (part-time) with next-generation SaaS project with IoT display devices.
@@ -71,7 +71,7 @@ Passionate about the craft of software and empowering teams to deliver robust so
     - Facilitated migration to GitHub from legacy source-control. Provided on-site training for unit-testing (JUnit, Mockito) and Git.
     - Tools: Artifactory, Gradle, Groovy, Java, Java RMI, Jenkins, Node.js, Spring, Webpack.
 
-* Software Developer, ScreenScape Networks, Charlottetown, PE 
+* _Software Developer_, ScreenScape Networks, Charlottetown, PE 
     - Mar 2012 - Apr 2016
     - multiple projects (below) 
     - **project** Second-Gen SaaS/IoT 
@@ -89,12 +89,12 @@ Passionate about the craft of software and empowering teams to deliver robust so
     - Introduced Groovy for DevOps utilities, pair-programming as agile techniques. Refined build/deploy processes in Jenkins.
     - Tools: Apache Flex (client), Ant, Groovy, Java, MySQL, Hibernate, Spring, Subversion, Tomcat, Eclipse.
 
-* Senior Software Consultant, CGI, Stratford PE – Jun 2010 - Mar 2012
+* _Senior Software Consultant_, CGI, Stratford PE – Jun 2010 - Mar 2012
     - Collaborated on enterprise, Java web application. Architecture: JDBC on WebLogic cluster using Oracle.
     - Introduced agile principles, JUnit, and Groovy (for troubleshooting).
     - Tools: Java, Eclipse, Ant, jQuery, JMS, Subversion, Oracle, SQL, Toad.
 
-* Senior Software Engineer, Advantage Consulting, St. Louis, Missouri Oct 2006 - Jun 2010
+* _Senior Software Engineer_, Advantage Consulting, St. Louis, Missouri Oct 2006 - Jun 2010
     - Worked full-time for client sites (below) and performed extra-curricular activities, including writing articles and maintaining 3-day training class on Groovy/Grails.
 
     - Medical Device App (Nov 2007 - Jun 2010):
@@ -108,7 +108,7 @@ Passionate about the craft of software and empowering teams to deliver robust so
     - Medical Device App (Oct 2006 - Apr 2007):
         - Same project/tasks as described above. My contract was not renewed due to budget constraints, but was later invited (by name) to return.
 
-* Various Roles, SirsiDynix (formerly Data Research Associates) St. Louis, Missouri – 1999 - 2006
+* _Various Roles_, SirsiDynix (formerly Data Research Associates) St. Louis, Missouri – 1999 - 2006
     - Senior Software Engineer (Feb 2004 - Oct 2006):
         - Contributed to development effort in incremental releases of portlet web app, based on Apache Jetspeed. (See Project 2 below).
         - Wrote custom persistence layer (Hibernate) to store portlet config in Oracle. 
