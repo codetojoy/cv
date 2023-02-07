@@ -60,7 +60,19 @@ Study Sabbatical, Charlottetown, PE
 Solution Architect, Veterans Affairs Canada, Charlottetown, PE
 
 - Aug 2019 - June 2020
-- TODO
+- On the architecture & infrastructure team, I designed solutions for new projects, evangelized new direction within the organization (e.g. microservices, cloud), and assisted legacy projects with best-practices (e.g. build hygiene).
+
+- Architecture:
+    - Designed architecture for V 2.0 of internal webapp (mental-health evaluator) using microservices and REST API.
+    - Designed initial architecture for internal webapp (benefits management), leveraging other departmental microservices.
+    - Investigated solutions for migrating unsupported Confluence Wiki to other platforms.
+    - Participated on cloud-migration team in preparation to employ cloud solutions. This included identifying select projects, and feature analysis of various cloud platforms, both in private sector in within the Government of Canada.
+
+- Best practices:
+    - Introduced Scrum-style stand-up meetings to facilitate accountability via a flat leadership model.
+    - Demonstrated proper build hygiene (using Gradle, TeamCity), investigated new tools (IntelliJ Idea), and introduced unit-testing (JUnit, Mockito).
+    - Refactored critical, legacy codebase to showcase multi-step, careful refactoring (unit-tests, introducing interfaces) and the mitigation of bad design (over-use of static fields).
+    - Prepared internal presentations on direction of architecture and infrastructure: e.g. microservices and Dev Ops.
 
 Programmer Analyst, Veterans Affairs Canada, Charlottetown, PE 
 
