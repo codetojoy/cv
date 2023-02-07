@@ -113,7 +113,7 @@ Passionate about the craft of software and empowering teams to deliver robust so
     - Worked full-time for client sites (below) and performed extra-curricular activities, including writing articles and maintaining 3-day training class on Groovy/Grails.
 
     - *project*: medical device application (2nd assignment)
-    - Nov 2007 - Jun 2010):
+    - Nov 2007 - Jun 2010
     - Member of Scrum team developing Java client-server app on PC, connected to medical instrument. Worked closely with domain experts on Sprint planning.
     - Migrated OODB to PostgreSQL, using Spring, Hibernate. Introduced Groovy, enabling team to write fast queries against OODB, using production code.
     - Tools: Java, Groovy, PostgreSQL, Spring, Hibernate, JUnit, DbUnit, FIT.
