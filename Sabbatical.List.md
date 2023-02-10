@@ -17,7 +17,7 @@ Note that War-O is a simple card game used as a theme (or "kata") for code proje
 * Flutter [here](https://github.com/codetojoy/waro_flutter)
 * React [here](https://github.com/codetojoy/waro-react)
 
-## Misc
+## Java 
 
 * Java 19 (virtual threads) [here](https://github.com/codetojoy/WarO_Java_19)
 * Java 19 (structured concurrency) [here](https://github.com/codetojoy/easter_eggs_for_java_loom)
