@@ -5,13 +5,12 @@
 * Email: codetojoy at gmail
 * Mobile: per request
 * LinkedIn [profile](https://www.linkedin.com/in/michael-easter-24231316/)
-* Twitter [profile](https://twitter.com/codetojoy)
 * HTML version of [this CV](https://codetojoy.github.io/cv/web/index.html)
 
 ### Profile
 
-Software developer, writer, speaker, with 20+ years of experience in all phases of development.
-Over 16 years experience with Java and JVM technologies including front-end, server, build processes, and network/IoT devices.
+Software developer, writer, speaker, with 30+ years of experience in all phases of development.
+Over 18 years experience with Java and JVM technologies including front-end, server, build processes, and network/IoT devices.
 
 Passionate about the craft of software and empowering teams to deliver robust solutions to customers.
 
@@ -22,23 +21,26 @@ Passionate about the craft of software and empowering teams to deliver robust so
 
 ### Online Resources
 
-* Stack Overflow (23k reputation) [profile](https://stackoverflow.com/users/12704/michael-easter)
+* Stack Overflow (24k reputation) [profile](https://stackoverflow.com/users/12704/michael-easter)
 * GitHub [profile](https://github.com/codetojoy)
 * Speaking, Writing, Organizing [summary](https://github.com/codetojoy/cv/blob/main/Tech_Community_Involvement.md)
 
 ### Skills
 
-* Concepts: agile methodologies (certified Scrum Master, XP), unit-testing/TDD, integration testing, Continuous Integration, REST, concurrency, MVC, IoT
+* AI: Claude by Anthropic, [certificate](https://verify.skilljar.com/c/v83uimivyd6x) for Claude Code In Action
+
+* Concepts: agile methodologies (Scrum, XP), unit-testing/TDD, integration testing, Continuous Integration, REST, concurrency, MVC, IoT
 
 * Languages: Java, Groovy, TypeScript/JavaScript, Python, SQL. Familiar with Kotlin, C#, Dart, Go, Rust 
 
-* Frameworks: Java EE (JAX-RS, JAXB, JDBC, JMS, JSP, RMI, Web Services), Spring, Hibernate, Node.js, Android, jQuery
+* Frameworks: Java EE (JAX-RS, JAXB, JDBC, JMS, JSP, RMI, Web Services), Spring, Hibernate, Play Framework, Ebean, Node.js, Android, jQuery, Knockout JS
 
 * Testing Frameworks: JUnit, Mockito, Cobertura, DbUnit, Spock, FIT
 
 * Dev Tools: Gradle, Maven, Jenkins, Artifactory, Ant, Bash, Eclipse, IntelliJ, Git, Subversion, Docker, GitLab, IBM RAD (Rational Application Developer)
 
-* Production Systems: MySQL, Tomcat, Oracle, WebLogic
+* Production Systems: PostgreSQL, AWS, MySQL, Tomcat, Oracle, WebLogic
+
 
 ### References
 
@@ -47,7 +49,36 @@ Passionate about the craft of software and empowering teams to deliver robust so
 ### Experience
 
 * _Study Sabbatical_, Charlottetown, PE
-    - June 2020 - present
+    - Apr 2026 - present
+    - Study break to upskill for the new world of AI.
+
+* Senior Software Engineer, SpryPoint, Charlottetown, PE
+    - Apr 2023 - Apr 2026
+    - Full-stack contributor across front-end, back-end, database, cloud, and DevOps.
+    - Delivered features via Scrum while driving platform-wide improvements in reliability, performance, and team capability.
+    - Feature Delivery
+        - Designed APIs consumed by adjacent product teams
+        - Added new device-type to IoT subsystem, including substantial documentation of legacy code
+        - Shipped new form-subsystem features, with thorough documentation of previously undocumented areas
+    - Platform & Performance
+        - **Observability:** Designed subsystems to identify slow API endpoints, security/quality anomalies, and database concerns (e.g., index bloat)
+        - **Proactive monitoring:** Routinely surfaced issues from production logs and filed early-warning tickets ahead of customers or DevOps
+        - **Performance:** Measurable gains via virtual threads, Caffeine caching, and database optimizations
+        - **Developer velocity:** Introduced a mock-data subsystem which unblocked teams waiting on upstream APIs
+        - Trusted advisor to team lead, staff engineers, and DevOps
+    - Mentorship & Team Growth
+        - Mentored on unit testing, architectural design, personal "test-bench" projects, and AI-tool adoption — **unit-test count grew 8× during tenure**
+        - Launched an onboarding program; encouraged peers to present topics ("bring many to 1.5× rather than be 10× alone")
+        - Authored 50+ daily tips in the team wiki
+        - Ongoing legacy-code refactoring
+        - Demonstrated Playwright and REST Assured for automated regression testing
+        - Co-organizer a local developer meetup ([PEI Developers](https://peiitalliance.com/pei-devs), co-sponsored by SpryPoint)
+        - Contributed financially to employer-sponsored open source (e.g., Play Framework)
+        - Active member of the internal technical book club
+        - Technologies: Java (Play Framework) · Vanilla JavaScript · PostgreSQL · Jenkins · AWS
+
+* _Study Sabbatical_, Charlottetown, PE
+    - June 2020 - Apr 2023
     - Study break to learn new technologies via Udemy courses and/or technical books.
     - Summary of projects [here](https://github.com/codetojoy/cv/blob/main/Sabbatical.List.md)
 
