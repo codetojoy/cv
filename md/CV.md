@@ -41,7 +41,6 @@ Passionate about the craft of software and empowering teams to deliver robust so
 
 * Production Systems: PostgreSQL, AWS, MySQL, Tomcat, Oracle, WebLogic
 
-
 ### References
 
 * Available on request
@@ -75,7 +74,7 @@ Passionate about the craft of software and empowering teams to deliver robust so
         - Co-organizer a local developer meetup ([PEI Developers](https://peiitalliance.com/pei-devs), co-sponsored by SpryPoint)
         - Contributed financially to employer-sponsored open source (e.g., Play Framework)
         - Active member of the internal technical book club
-        - Technologies: Java (Play Framework) · Vanilla JavaScript · PostgreSQL · Jenkins · AWS
+    - Technologies: Java (Play Framework) · Vanilla JavaScript · PostgreSQL · Jenkins · AWS
 
 * _Study Sabbatical_, Charlottetown, PE
     - June 2020 - Apr 2023
