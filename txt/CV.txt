@@ -33,17 +33,17 @@ Speaking, Writing, Organizing: https://github.com/codetojoy/cv/blob/main/Tech_Co
 
 AI: Claude by Anthropic, certificate for Claude Code in Action: https://verify.skilljar.com/c/v83uimivyd6x
 
-Concepts: agile methodologies (Scrum, XP), unit-testing/TDD, integration testing, Continuous Integration, REST, concurrency, MVC, IoT
+Concepts: agile methodologies (Scrum, XP), unit-testing/TDD, integration testing, Continuous Integration, REST, concurrency, MVC, IoT, Docker
 
-Languages: Java, Groovy, TypeScript/JavaScript, Python, SQL. Familiar with C#, Dart, Go, Kotlin, Rust, Scala 
+Languages: Java, Groovy, TypeScript/JavaScript, Python, C#, SQL. Familiar with Dart, Go, Kotlin, Rust, Scala 
 
 Frameworks: Java EE (JAX-RS, JAXB, JDBC, JMS, JSP, RMI, Web Services), Spring, Hibernate, Play Framework, Ebean, Node.js, Android, jQuery, Knockout JS
 
-Testing Frameworks: JUnit, Mockito, Cobertura, DbUnit, Spock, FIT
+Testing Frameworks: JUnit, Mockito, Playwright, REST Assured, testcontainers
 
-Dev Tools: Gradle, Maven, Jenkins, Artifactory, Ant, Bash, Eclipse, IntelliJ, Git, Subversion, Docker, GitLab, IBM RAD (Rational Application Developer)
+Dev Tools: Gradle, Maven, Jenkins, Artifactory, Ant, Bash, Eclipse, IntelliJ, Git, Docker, GitLab, IBM RAD (Rational Application Developer)
 
-Production Systems: PostgreSQL, AWS, MySQL, Tomcat, Oracle, IBM WebSphere Application Server, WebLogic
+Production Systems: PostgreSQL, AWS, Tomcat, Oracle, IBM WebSphere Application Server, WebLogic, MySQL
 
 ********************
 * References

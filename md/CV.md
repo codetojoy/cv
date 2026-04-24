@@ -29,17 +29,17 @@ Passionate about the craft of software and empowering teams to deliver robust so
 
 * AI: Claude by Anthropic, [certificate](https://verify.skilljar.com/c/v83uimivyd6x) for Claude Code In Action
 
-* Concepts: agile methodologies (Scrum, XP), unit-testing/TDD, integration testing, Continuous Integration, REST, concurrency, MVC, IoT
+* Concepts: agile methodologies (Scrum, XP), unit-testing/TDD, integration testing, Continuous Integration, REST, concurrency, MVC, IoT, Docker
 
-* Languages: Java, Groovy, TypeScript/JavaScript, Python, SQL. Familiar with Kotlin, C#, Dart, Go, Rust 
+* Languages: Java, Groovy, TypeScript/JavaScript, Python, C#, SQL. Familiar with Kotlin, Dart, Go, Rust 
 
 * Frameworks: Java EE (JAX-RS, JAXB, JDBC, JMS, JSP, RMI, Web Services), Spring, Hibernate, Play Framework, Ebean, Node.js, Android, jQuery, Knockout JS
 
-* Testing Frameworks: JUnit, Mockito, Cobertura, DbUnit, Spock, FIT
+* Testing Frameworks: JUnit, Mockito, Playwright, REST Assured, testcontainers
 
-* Dev Tools: Gradle, Maven, Jenkins, Artifactory, Ant, Bash, Eclipse, IntelliJ, Git, Subversion, Docker, GitLab, IBM RAD (Rational Application Developer)
+* Dev Tools: Gradle, Maven, Jenkins, Artifactory, Ant, Bash, Eclipse, IntelliJ, Git, Docker, GitLab, IBM RAD (Rational Application Developer)
 
-* Production Systems: PostgreSQL, AWS, MySQL, Tomcat, Oracle, WebLogic
+* Production Systems: PostgreSQL, AWS Elastic Beanstalk, AWS RDS, AWS ECS, Tomcat, Oracle, WebLogic, MySQL
 
 ### References
 
